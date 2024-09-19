@@ -1,0 +1,30 @@
+.Encabezado{
+    text-align: center;
+    color: red;
+}
+
+.contenedor-doble{
+    text-align: center;
+    color: black;
+}
+
+.boton-agregar{
+    text-align: center;
+    width: 100px;
+}
+
+.lista-tareas{
+    text-align: center;
+}
+
+.tareas{
+    text-align: center;
+}
+
+.parte-baja{
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
